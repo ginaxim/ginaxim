@@ -8,7 +8,3 @@
  <div>
   <img height="130em" position=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginaxim&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-
-<div>
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
