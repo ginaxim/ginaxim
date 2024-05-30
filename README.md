@@ -6,8 +6,8 @@
 
 <br>
  <div>
-   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=ginaxim&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="130em" position=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginaxim&layout=compact&langs_count=16&theme=panda"/>
+   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=ginaxim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" position=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginaxim&layout=compact&langs_count=16&theme=onedark"/>
 </div>
 <br>
 <div>
