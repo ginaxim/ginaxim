@@ -5,6 +5,6 @@
 - Fique à vontade para explorar meu ambiente! 🥰💻
 
  <div>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginaxim&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginaxim&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
