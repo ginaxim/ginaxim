@@ -4,6 +4,7 @@
 - Tenho interesse em Data Engineering e Desenvolvimento Web.
 - Fique à vontade para explorar meu ambiente! 🥰💻
 
+  <br>
  <div>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginaxim&layout=compact&langs_count=16&theme=dracula"/>
 </div>
