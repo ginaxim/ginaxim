@@ -1,6 +1,6 @@
 ## Oi, eu sou a Giovanna, bem-vindo ao meu GitHub. 🩷
 - Aqui é onde compartilho projetos e códigos da faculdade, além de projetinhos pessoais.
-- Estou atualmente no 3º período do curso de Análise e Desenvolvimento de Sistemas.
+- Estou atualmente no 4º período do curso de Análise e Desenvolvimento de Sistemas.
 - Tenho interesse em Data Science e Desenvolvimento Web.
 - Fique à vontade para explorar meu ambiente! 🥰💻
 
